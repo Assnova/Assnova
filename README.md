@@ -2,28 +2,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%9A%D0%BE%D0%BD%D1%87%D0%B0%D0%BA%D0%BE%D0%B2+%F0%9F%91%8B;%D0%92%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0+%F0%9F%8C%8A;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5+%D0%B8+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:58A6FF&height=120&section=header&text=Welcome%20to%20my%20profile&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/maximkonchakov?tab=followers">
-    <img src="https://img.shields.io/github/followers/maximkonchakov?label=Followers&style=for-the-badge&logo=github&color=36BCF7&logoColor=white&labelColor=0D1117" alt="GitHub Followers" />
+  <a href="https://github.com/Assnova?tab=followers">
+    <img src="https://img.shields.io/github/followers/Assnova?label=Followers&style=for-the-badge&logo=github&color=36BCF7&logoColor=white&labelColor=0D1117" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/maximkonchakov?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/maximkonchakov?label=Repositories&style=for-the-badge&logo=github&color=58A6FF&logoColor=white&labelColor=0D1117" alt="GitHub Repos" />
+  <a href="https://github.com/Assnova?tab=repositories">
+    <img src="https://img.shields.io/github/repo-count/Assnova?label=Repositories&style=for-the-badge&logo=github&color=58A6FF&logoColor=white&labelColor=0D1117" alt="GitHub Repos" />
   </a>
   <img src="https://img.shields.io/badge/STATUS-CODING-36BCF7?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maximkonchakov&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Assnova&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Обо мне
 
@@ -38,9 +34,7 @@
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## 🛠 Технологический стек
 
@@ -96,9 +90,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## 📊 GitHub Статистика
 
@@ -107,30 +99,28 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximkonchakov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=58A6FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&animation=1" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximkonchakov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&card_width=350" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Assnova&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=58A6FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assnova&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&card_width=350" height="180em" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maximkonchakov&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=58A6FF&currStreakLabel=36BCF7&sideLabels=FFFFFF&dates=8B949E&stroke=36BCF7&border_radius=10" height="180em" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Assnova&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=58A6FF&currStreakLabel=36BCF7&sideLabels=FFFFFF&dates=8B949E&stroke=36BCF7&border_radius=10" height="180em" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximkonchakov&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Assnova&theme=tokyonight" alt="Profile Summary" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maximkonchakov&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maximkonchakov&theme=tokyonight" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Assnova&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Assnova&theme=tokyonight" alt="Most commit language" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maximkonchakov&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assnova&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## 🏆 GitHub Трофеи
 
@@ -139,12 +129,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maximkonchakov&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Assnova&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## 🚀 Избранные проекты
 
@@ -164,19 +152,7 @@
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
-
-## 🧭 Сейчас я
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Building+a+SaaS+analytics+platform;%F0%9F%8C%B1+Exploring+Rust+and+WebAssembly;%F0%9F%8E%AF+Improving+system+design+skills;%E2%98%95+Drinking+way+too+much+coffee+in+UTC%2B10" alt="Currently typing" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 ## 📫 Связаться со мной
 
@@ -191,7 +167,7 @@
   <a href="https://t.me/maximkonchakov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://github.com/maximkonchakov">
+  <a href="https://github.com/Assnova">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/maximkonchakov">
@@ -199,9 +175,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let%27s+build+something+awesome+together.;See+you+in+the+commits+%E2%9C%A8" alt="Outro" />
