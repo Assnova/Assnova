@@ -14,11 +14,11 @@
 ## <span style="color: #58A6FF; border-bottom: 2px solid #36BCF7; padding-bottom: 5px; display: inline-block;">Обо мне</span>
 
 - **Кто я:** Full-Stack разработчик и преподаватель IT-дисциплин (Программная инженерия) в ВВГУ
-- **Образование:** Бакалавр «Программная инженерия» (ВВГУ, 2024), продолжаю обучение в МИТУ
+- **Образование:** СПО «Информационные системы(по отраслям)» (ВВГУ, 2024), продолжаю обучение в МИТУ на прикладной информатике "Бакалавр"
 - **Основной стек:** JavaScript / TypeScript, React, Next.js, Node.js, Python
 - **Сейчас изучаю:** Rust и WebAssembly
 - **Локация:** Владивосток, Россия
-- **Факт:** Отлаживаю код лучше под lo-fi и верю, что хороший код должен быть не только рабочим, но и элегантным
+- **Факт:** Отлаживаю код лучше под Dark_Metall
 
 ## <span style="color: #36BCF7; border-bottom: 2px solid #58A6FF; padding-bottom: 5px; display: inline-block;">Технологический стек</span>
 
@@ -87,10 +87,10 @@
 
 | Проект | Описание | Стек |
 |:---|:---|:---|
-| **PacificDash** | Дашборд аналитики в реальном времени | Next.js, PostgreSQL |
-| **VladivostokGo** | Городской гид-PWA с офлайн-картами | React, PWA |
-| **DevFlow** | Канбан-доска для команд с интеграцией GitHub | Vue 3, Node.js |
-| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker |
+| **PacificDash** | Дашборд аналитики в реальном времени | Next.js, PostgreSQL | В разработке...
+| **VladivostokGo** | Городской гид-PWA с офлайн-картами | React, PWA | В разработке...
+| **DevFlow** | Канбан-доска для команд с интеграцией GitHub | Vue 3, Node.js | В разработке...
+| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker | В разработке...
 
 ## <span style="color: #58A6FF; border-bottom: 2px solid #36BCF7; padding-bottom: 5px; display: inline-block;">Связаться со мной</span>
 
