@@ -87,10 +87,10 @@
 
 | Проект | Описание | Стек |
 |:---|:---|:---|
-| **PacificDash** | Дашборд аналитики в реальном времени | Next.js, PostgreSQL | В разработке...
-| **VladivostokGo** | Городской гид-PWA с офлайн-картами | React, PWA | В разработке...
-| **DevFlow** | Канбан-доска для команд с интеграцией GitHub | Vue 3, Node.js | В разработке...
-| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker | В разработке...
+| **PacificDash** | Дашборд аналитики в реальном времени | Next.js, PostgreSQL | В разработке... |
+| **VladivostokGo** | Городской гид-PWA с офлайн-картами | React, PWA | В разработке... |
+| **DevFlow** | Канбан-доска для команд с интеграцией GitHub | Vue 3, Node.js | В разработке... |
+| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker | В разработке... |
 
 ## <span style="color: #58A6FF; border-bottom: 2px solid #36BCF7; padding-bottom: 5px; display: inline-block;">Связаться со мной</span>
 
