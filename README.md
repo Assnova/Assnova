@@ -83,6 +83,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assnova&bg_color=0D1117&color=36BCF7&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
 </p>
 
+
 ## <span style="color: #36BCF7; border-bottom: 2px solid #58A6FF; padding-bottom: 5px; display: inline-block;">Избранные проекты</span>
 
 | Проект | Описание | Стек |
@@ -90,7 +91,7 @@
 | **PacificDash** | Дашборд аналитики в реальном времени | Next.js, PostgreSQL | **В процессе...** |
 | **VladivostokGo** | Городской гид-PWA с офлайн-картами | React, PWA | **В процессе...** |
 | **DevFlow** | Канбан-доска для команд с интеграцией GitHub | Vue 3, Node.js | **В процессе...** |
-| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker | **В процессе...** |
+| **SnapAPI** | Лёгкий REST API-шаблон с авторизацией | FastAPI, Docker | **В процессе...** | 
 
 ## <span style="color: #58A6FF; border-bottom: 2px solid #36BCF7; padding-bottom: 5px; display: inline-block;">Связаться со мной</span>
 
